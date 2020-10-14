@@ -1,0 +1,13 @@
+,Genus,Species,Diet_category,Gut_length,Relative_gut_length,Color
+Boops_boops,Boops,Boops_boops,Selective_plankton_feeding,328.6515,2.14330501253133,#EE7600
+Diplodus_annularis,Diplodus,Diplodus_annularis,Hunting_macrofauna,165.918,1.01942722138554,#97FFFF
+Diplodus_puntazzo,Diplodus,Diplodus_puntazzo,Hunting_macrofauna,237.914,1.14514086629416,#00CED1
+Diplodus_sargus,Diplodus,Diplodus_sargus,Hunting_macrofauna,196.061,1.04248794117647,#00BFFF
+Diplodus_vulgaris,Diplodus,Diplodus_vulgaris,Hunting_macrofauna,197.133142857143,1.04327811818439,#104E8B
+Lithognathus_mormyrus,Lithognathus,Lithognathus_mormyrus,Hunting_macrofauna,142.537,0.614605923497833,#7F7F7F
+Oblada_melanura,Oblada,Oblada_melanura,Hunting_macrofauna,286.163,1.28064946787544,#000000
+Pagellus_acarne,Pagellus,Pagellus_acarne,Hunting_macrofauna,110.023,0.628702857142857,#FF3030
+Pagellus_erythrinus,Pagellus,Pagellus_erythrinus,Hunting_macrofauna,102.990666666667,0.594098345667096,#8B1A1A
+Pagrus_pagrus,Pagrus,Pagrus_pagrus,Hunting_macrofauna,179.79,0.877024390243902,#EE1289
+Sarpa_salpa,Sarpa,Sarpa_salpa,Grazing_aquatic_plants,591.3032,2.46398619655193,#228B22
+Sparus_aurata,Sparus,Sparus_aurata,Hunting_macrofauna,159.6684,0.809249666849262,#FFD700
