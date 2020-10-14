@@ -115,3 +115,19 @@ dev.off()
 
 
 
+
+
+# Save the final.RData
+
+save.image(file = paste0(dir_analyses, "environment.RData"))
+
+
+
+
+
+
+
+
+
+
+
